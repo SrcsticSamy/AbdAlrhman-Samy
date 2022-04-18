@@ -1,7 +1,17 @@
 # <div align="center">👋 Hey everyone, I'm **AbdAlrhman**.
 
-I'm a Front End Web Developer who likes to create fun and useful websites.  </div>  
+I'm a Front End Web Developer who likes to create fun and useful websites.  
+</div>  
   
+<div align="center">
+  <a href="https://linkedin.com/in/abdalrhman-samy" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+  
+ <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=abdalrhman-samy&&style=flat-square" align="center" />
+</div>  
 
 - 🔭 I’m currently working on [Spicy Tower](https://github.com/AbdAlrhman-Samy/spicy-tower)  
   
@@ -14,30 +24,22 @@ I'm a Front End Web Developer who likes to create fun and useful websites.  </di
 
 <br/>  
 
-
-## Connect with me  
 <div align="center">
-<a href="https://twitter.com/srcsticsamyy" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/abdalrhman-samy" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+
+ 
 </div>  
   
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abdalrhman-samy&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -52,33 +54,26 @@ I'm a Front End Web Developer who likes to create fun and useful websites.  </di
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="50%">
 
 
 ### Backend  
-<div align="right">  
+<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
+  
 </td></tr></table>  
 
 <br/>  
 
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhman-samy&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdalrhman-samy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
-  
-  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdalrhman-samy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  

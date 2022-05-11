@@ -13,13 +13,13 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
   <img src="https://komarev.com/ghpvc/?username=abdalrhman-samy&&style=flat-square" align="center" />
 </div>  
 
-- 🔭 I’m currently working on [Spicy Tower](https://github.com/AbdAlrhman-Samy/spicy-tower)  
+- 🔭 I’m currently working on [Taskies](https://github.com/AbdAlrhman-Samy/taskies)  
   
 
-- 📚 Learning NextJS, NodeJS/Express, MongoDB  
+- 📚 Learning NextJS and struggling with TypeScript
   
 
--  👀 Ask me about anything about ReactJS or Marvel movies and tv shows   
+-  👀 Ask me about anything about ReactJS and its ecosystem or Marvel movies and tv shows   
   
 
 <br/>  

@@ -12,10 +12,7 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
   
   <img src="https://komarev.com/ghpvc/?username=abdalrhman-samy&&style=flat-square" align="center" />
 </div>  
-
-- 🔭  working on   
   
-
 - 📚 I’m currently Learning Java and OOP (check out my [notes](https://github.com/AbdAlrhman-Samy/java-oop))
   
 

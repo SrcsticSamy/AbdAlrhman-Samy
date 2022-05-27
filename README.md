@@ -13,7 +13,7 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
   <img src="https://komarev.com/ghpvc/?username=abdalrhman-samy&&style=flat-square" align="center" />
 </div>  
   
-- 📚 I’m currently Learning Java and OOP (check out my [notes](https://github.com/AbdAlrhman-Samy/java-oop))
+- 📚 Currently Learning [Dev Patterns](https://www.patterns.dev/) 
   
 
 -  👀 Ask me about anything about ReactJS and its ecosystem or Marvel movies and tv shows   

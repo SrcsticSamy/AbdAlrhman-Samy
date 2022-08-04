@@ -13,13 +13,6 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
   <img src="https://komarev.com/ghpvc/?username=abdalrhman-samy&&style=flat-square" align="center" />
 </div>  
   
-- 📚 Currently Learning [Dev Patterns](https://www.patterns.dev/) 
-  
-
--  👀 Ask me about anything about ReactJS and its ecosystem or Marvel movies and tv shows   
-  
-
-<br/>  
 
 <div align="center">
 
@@ -36,7 +29,7 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -49,16 +42,6 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 </div>
 
   

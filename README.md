@@ -26,6 +26,8 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
   
 
 <br/>  
+<!---
+
 
 
 ## My Skill Set  
@@ -57,3 +59,4 @@ I'm a Front End Web Developer who likes to create fun and useful websites.
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdalrhman-samy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+-->

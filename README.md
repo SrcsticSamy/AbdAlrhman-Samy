@@ -22,7 +22,7 @@ Below are some _-but not all-_ of the technologies I mostly use for projects
 
 ## What Am I Currently Doing?
 - From **October 1st** to **the end of December, 2023** I'm an intern at [Algoriza](https://www.linkedin.com/company/algoriza/), where I'm putting my _Vue_ skills to use and expanding my knowledge about the framework even more.
-- I'm studying ![This Algorithms Course](https://frontendmasters.com/courses/algorithms/) to better myself at DSA
+- I'm studying [This Algorithms Course](https://frontendmasters.com/courses/algorithms/) to better myself at DSA
 - I'll also be trying to learn **C#** and the .NET Framework (_I actually want to use C# for game dev but we'll see what the future holds_)
 
 ## Socials

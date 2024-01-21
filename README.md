@@ -20,10 +20,6 @@ Below are some _-but not all-_ of the technologies I mostly use for projects
 #### UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisUI](https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
 
-## What Am I Currently Doing?
-- From **October 1st** to **the end of December, 2023** I'm an intern at [Algoriza](https://www.linkedin.com/company/algoriza/), where I'm putting my _Vue_ skills to use and expanding my knowledge about the framework even more.
-- I'm studying [This Data Structures and Algorithms Course](https://frontendmasters.com/courses/algorithms/) to better myself at DSA
-- I'll also be trying to learn **C#** and the .NET Framework (_I actually want to use C# for game dev but we'll see what the future holds_)
 
 ## Socials
 You can find me on <br/>
